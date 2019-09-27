@@ -1,0 +1,12 @@
+.screen {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 48px;
+    width: 180px;
+    font-size: 32px;
+    padding: 10px;
+    text-align: right;
+    background-color: $screen-bg;
+    color: $white;
+}
